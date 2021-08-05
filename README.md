@@ -20,9 +20,9 @@
 * `CSS`
 * `JS`
 * `TXT`
-* [Bootstrap][5] - используемый веб-фреймворк 
-* [CDNJS][2]  - библиотека [font-awesome][3] 
-* [Google Fonts][4] - библиотека шрифтов
+* [Bootstrap] - используемый веб-фреймворк 
+* [CDNJS]  - библиотека [font-awesome] 
+* [Google Fonts] - библиотека шрифтов
 
 
 ---
